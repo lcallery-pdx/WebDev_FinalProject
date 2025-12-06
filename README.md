@@ -7,3 +7,4 @@ It showcases my background, previous work, and selected projects, and includes a
 References:
 
 https://www.freecodecamp.org/news/html-starter-template-a-basic-html5-boilerplate-for-index-html/
+https://www.w3schools.com/howto/howto_js_accordion.asp
